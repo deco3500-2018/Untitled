@@ -1,5 +1,6 @@
 # Project proposal link
- xxxxx
+
+ https://github.com/deco3500-2018/Untitled/wiki/Concept-Proposal---Encouraging-daily-walking
  
 # Project aim
 Physical inactivity has been a global health crisis and many people have a sedentary lifestyle nowadays. This would bring many diseases, such as larger waist circumference, cardiovascular and all-cause mortality. We aims to explore the way that encourages people to move out of sedentary lifestyle and motivate them to do more daily walking.
