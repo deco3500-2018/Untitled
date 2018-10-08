@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARDog.unity
+  isLoaded: 1
+  isActive: 1
