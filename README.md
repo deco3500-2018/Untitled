@@ -31,5 +31,7 @@ Physical inactivity has been a global health crisis and many people have a seden
  (Not sure because the prototype have not been used in Mac, but we built this)
 
 ## Use the prototype in Andorid Phone
-1. Download the file called CloudDogDemo4.apk from your Andorid Phone.
+1. Download the file called CloudDogDemo4.apk and Ardog.apk from your Andorid Phone.
 2. Install and run.
+
+
