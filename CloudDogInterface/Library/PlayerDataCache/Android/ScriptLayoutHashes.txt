@@ -1,23 +1,20 @@
 Android
 PlayerPath?
-D:/DECO2300/43983481_QiShao_P05/43983481_QiShao_P05/Prototype 3/CloudDogDemo.apk
+D:/Interface/43983481_QiShao_P05/DECO2300/CloudDogInterface/CloudDogDemo4.apk
 SceneListBegin?
-Assets/homepageDog.unity
-Assets/Old prototype/Part2.unity
-Assets/Old prototype/Part3.unity
-Assets/Old prototype/Part4.unity
 Assets/User.unity
-Assets/Old prototype/Part5.unity
-Assets/Chat.unity
-Assets/Partner.unity
+Assets/homepageDog.unity
 Assets/report.unity
-Assets/Search.unity
-Assets/message.unity
-Assets/Personzone.unity
-Assets/Explore.unity
-Assets/Nearbyrecom.unity
-Assets/Rec.unity
 Assets/shop.unity
+Assets/Menu.unity
+Assets/1.unity
+Assets/2.unity
+Assets/Me.unity
+Assets/Update.unity
+Assets/3.unity
+Assets/message.unity
+Assets/chat1.unity
+Assets/about.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -68,6 +65,7 @@ e90403eeda069970e0b9de1533de13a6 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 2d58ca16854b99daea8c45e9c0f367b7 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 16da51d1b62ef6d4ee1849350434023b UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 50b0b141074b216c8b53b1bd467f73c9 Unity.TextMeshPro.dll:TMPro.TMP_InputField
+fce247bcb4b4ed022b72e87ada773154 Assembly-CSharp.dll:.ShowRed
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.Tohomepage
 53cefe5d98cadefbab750835e70b89c0 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 486cd95c82d8305219c352c06b776e1f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
@@ -228,7 +226,6 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 72a8523b432c0a5317826b7a9e0a0e79 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 e53cc67d84060d628c7f03fc725766d8 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 392c5b921098bd4c139d9146d0efa6d7 Unity.TextMeshPro.dll:TMPro.TMP_Settings
-2435b5b70118f91201d614030a6a62f8 Assembly-CSharp.dll:.Updatedetail
 486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 9d863b523b577f5c3d915351a74cd338 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
@@ -240,7 +237,6 @@ e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTool
 70f7dc248db3379548a88e8d4fa049f8 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
-5551d148d509ff39b6a4121222714402 Assembly-CSharp.dll:.UIhandler
 d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 486cd95c82d8305219c352c06b776e1f UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
