@@ -6,51 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/homepageDog.unity
-    guid: 37e9404ce22fc6e4ebcec712360c93ff
-  - enabled: 1
-    path: Assets/Old prototype/Part2.unity
-    guid: 2458bc34505e8604182296b1daa6664c
-  - enabled: 1
-    path: Assets/Old prototype/Part3.unity
-    guid: e90b724a819ea1e43b27f638037955e8
-  - enabled: 1
-    path: Assets/Old prototype/Part4.unity
-    guid: 4dd23aede51b5bb4abd571866ca332f6
-  - enabled: 1
     path: Assets/User.unity
     guid: 2b9fb975aff929540b7a37b4b78c6810
   - enabled: 1
-    path: Assets/Old prototype/Part5.unity
-    guid: 91f0b4feeffbcde4b99e1b2589d8aef7
-  - enabled: 1
-    path: Assets/Chat.unity
-    guid: 1838a0e462c885e4eaadec2a8b2a3d74
-  - enabled: 1
-    path: Assets/Partner.unity
-    guid: 20abf95cb35ffb94ba3424355e9facb4
+    path: Assets/homepageDog.unity
+    guid: 37e9404ce22fc6e4ebcec712360c93ff
   - enabled: 1
     path: Assets/report.unity
     guid: 2270d2ef59738884ea0624bc0a272f56
   - enabled: 1
-    path: Assets/Search.unity
-    guid: abd1bef63b774524291fdd45fc2c9e9f
-  - enabled: 1
-    path: Assets/message.unity
-    guid: 08e6b9894d64dab4aa67060f60b4e8f8
-  - enabled: 1
-    path: Assets/Personzone.unity
-    guid: e6cdd997bdc2d8e4bb58b7d3da3c4c0d
-  - enabled: 1
-    path: Assets/Explore.unity
-    guid: 8eb15994d88d68e40b45ebc7c7af5321
-  - enabled: 1
-    path: Assets/Nearbyrecom.unity
-    guid: 6c3be59d6b48c0d4eb0a3757e64ad844
-  - enabled: 1
-    path: Assets/Rec.unity
-    guid: 9d5165b08cafca44d9d07f59a05a550c
-  - enabled: 1
     path: Assets/shop.unity
     guid: 0f89be3cff2555e4f9510f2bbdcd1179
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 94a2055b39b80a94582e0efa7acd79a6
+  - enabled: 1
+    path: Assets/1.unity
+    guid: 48a5acdcd40ecd44398babff14b983ae
+  - enabled: 1
+    path: Assets/2.unity
+    guid: ba39c297b06d372489f794537b670577
+  - enabled: 1
+    path: Assets/Me.unity
+    guid: 096e806f8203a114f986e2ed965f536f
+  - enabled: 1
+    path: Assets/Update.unity
+    guid: de0b7141dc8b6024b839bdb7d3351aeb
+  - enabled: 1
+    path: Assets/3.unity
+    guid: c732a9370149f554bac637554748e51f
+  - enabled: 1
+    path: Assets/message.unity
+    guid: c8002addcf503354b8836abcb3708867
+  - enabled: 1
+    path: Assets/chat1.unity
+    guid: b85ee072e3ebc354181c37bbba8276a6
+  - enabled: 1
+    path: Assets/about.unity
+    guid: 28ebd6bfe888c104595246b1a3321034
+  - enabled: 0
+    path: Assets/move.unity
+    guid: c7ff0a750559f984691decb95bd7286a
   m_configObjects: {}

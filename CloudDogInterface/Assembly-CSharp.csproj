@@ -63,12 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\Codes\getReply.cs" />
     <Compile Include="Assets\Codes\InputText.cs" />
-    <Compile Include="Assets\Codes\loadscene.cs" />
     <Compile Include="Assets\Codes\Showdialog.cs" />
+    <Compile Include="Assets\Codes\ShowRed.cs" />
     <Compile Include="Assets\Codes\slider.cs" />
     <Compile Include="Assets\Codes\Tohomepage.cs" />
-    <Compile Include="Assets\Codes\UIhandler.cs" />
-    <Compile Include="Assets\Codes\Updatedetail.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Interface/43983481_QiShao_P05/DECO2300/CloudDogInterface/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
