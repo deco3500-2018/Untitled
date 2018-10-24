@@ -35,9 +35,11 @@ Physical inactivity has been a global health crisis and many people have a seden
 2. Install and run.
 
 ### How to build and run in Andorid while using Unity
-
 1. File -> Build & Run, make sure your Unity already has Andorid package for building.
 2. Edit -> Preference -> External Tool
 3. Import your JDK
 4. Import your SDK, the path should be C:\Users\**username**\AppData\Local\Android\Sdk
-5. Connect your Andorid device then click build & run.
+5. Connect your Andorid device with USB cable then click build & run.
+
+### Note:
+Run ARDog needs an envirnment, it's very complex to set up if you are the first time to use it. You must import AR support files by yourself instead of downloading the whole project files. Therefore, we do not put ARdog function with the interface together. If the ARcore has any error on your computer, the whole project cannot run includes the CloudDogInterface. But the team has built apk file already, you can install apk in any Andorid device.
