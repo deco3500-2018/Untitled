@@ -34,4 +34,10 @@ Physical inactivity has been a global health crisis and many people have a seden
 1. Download the file called CloudDogDemo4.apk and Ardog.apk from your Andorid Phone.
 2. Install and run.
 
+### How to build and run in Andorid while using Unity
 
+1. File -> Build & Run, make sure your Unity already has Andorid package for building.
+2. Edit -> Preference -> External Tool
+3. Import your JDK
+4. Import your SDK, the path should be C:\Users\**username**\AppData\Local\Android\Sdk
+5. Connect your Andorid device then click build & run.
