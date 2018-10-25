@@ -40,6 +40,7 @@ Physical inactivity has been a global health crisis and many people have a seden
 3. Import your JDK
 4. Import your SDK, the path should be C:\Users\**username**\AppData\Local\Android\Sdk
 5. Connect your Andorid device with USB cable then click build & run.
+6. Put the camera on the Target image. If you have not printed the paper, you can display the target images on your phone.
 
 ### Note:
 Run ARDog needs an envirnment, it's very complex to set up if you are the first time to use it. You must import AR support files by yourself instead of downloading the whole project files. Therefore, we do not put ARdog function with the interface together. If the ARcore has any error on your computer, the whole project cannot run includes the CloudDogInterface. But the team has built apk file already, you can install apk in any Andorid device.
